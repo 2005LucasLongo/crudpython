@@ -1,10 +1,5 @@
 # crudpython
-WHY I AM STARTING THIS?!
-Oh, yeah. Portifólio.
-
-Vou fazer um CRUD simples com Python e MySQL, tendo como base o trabalho da A3 do primeirso semestre da minha faculdade, que foi em Java.
-
-Comandos MySQL:
+Comandos MySQL (jogue-os no MySQL Workbench e veja a mágica acontecer):
 
 CREATE DATABASE CRUDPython;
 USE CRUDPython;
